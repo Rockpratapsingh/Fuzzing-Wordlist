@@ -8,23 +8,20 @@ Hi there! I'm Rock Pratap Singh, the creator of this repository. I'm passionate 
 
 ## **Contents**
 This repository contains:
-- Fuzzing tools
-- Wordlists
-- Documentation
-- Examples
+- api-fuzzing.txt
+- directory-fuzzing.txt
+- jira-fuzz.txt
 
 ## **How to Use**
 Feel free to explore the contents of this repository and use the tools and resources provided. Here's a brief guide on how to get started:
 
-1. **Clone the Repository:** Start by cloning this repository to your local machine using `git clone`.
+1. **Clone the Repository:** Start by cloning this repository to your local machine using `git clone https://github.com/Rockpratapsingh/Fuzzing-Wordlist.git`.
 
-2. **Explore Tools:** Take a look at the fuzzing tools available in the repository. Each tool may have its own documentation or instructions on how to use it.
+2. **Explore Tools:** Take a look at the fuzzing wordlists available in the repository. Each tool may have its own documentation or instructions on how to use it.
 
 3. **Wordlists:** Check out the wordlists provided. These wordlists contain common directory and file names that are often used in directory fuzzing.
 
 4. **Documentation:** Refer to the documentation for any additional information on how to use the tools effectively or for any best practices in directory fuzzing.
-
-5. **Examples:** Explore the examples provided in the repository to see directory fuzzing in action. You can use these examples as a starting point for your own testing.
 
 ## **Contributions**
 Contributions to this repository are welcome! If you have any tools, wordlists, or documentation that you would like to contribute, feel free to submit a pull request. Together, we can improve the effectiveness of directory fuzzing and enhance web application security.
@@ -33,6 +30,6 @@ Contributions to this repository are welcome! If you have any tools, wordlists, 
 If you have any questions, suggestions, or feedback, feel free to reach out to me:
 - **Name:** Rock Pratap Singh
 - **Email:** rockpratap@example.com
-- **GitHub:** [rockpratap](https://github.com/rockpratap)
+- **GitHub:** [RockPratapSingh](https://github.com/Rockpratapsingh)
 
 Happy fuzzing!
